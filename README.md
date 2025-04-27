@@ -1,2 +1,3 @@
-# reverse-polish-calculator
-A calculator written in Python leveraging reverse-polish notation.
+# Reverse Polish Calculator
+
+A calculator written in Gleam leveraging reverse-polish notation.
