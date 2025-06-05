@@ -1,4 +1,4 @@
-module Lexer (tokenize, trimStart, trimEnd, trim) where
+module Lexer (Token (..), tokenize, trimStart, trimEnd, trim) where
 
 import qualified Data.Char as Char
 
